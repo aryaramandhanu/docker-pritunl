@@ -19,4 +19,4 @@ docker run \
 -p 443:443/tcp \
 aryaramandhanu/vpnserver-with-pritunl
 ```
-now login to https://<ip-server> with username and password `pritunl`
+now login to <https://ip-server> with username and password `pritunl`
